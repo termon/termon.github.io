@@ -1,0 +1,101 @@
+{
+    "movies": [{
+            "id": 1,
+            "title": "Apolalypse Now",
+            "year": 1979,
+            "duration": 200,
+            "budget": 16.5,
+            "director": "Francis Ford Coppola",
+            "genres": [
+                0,
+                8
+            ],
+            "rating": 4,
+            "cast": [
+                "Actor 1",
+                "Actor 2",
+                "Actor 3",
+                "Actor 4"
+            ],
+            "url": "https://image.tmdb.org/t/p/w440_and_h660_bestv2/jcvJ2xcVWU9Wh0hZAxcs103s8nN.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Pulp Fiction",
+            "year": 1994,
+            "duration": 154,
+            "budget": 8.0,
+            "director": "Quentin Tarantinoooooo",
+            "genres": [
+                1,
+                3,
+                8
+            ],
+            "rating": 4,
+            "cast": [
+                "Samuel L Jackson",
+                "Uma Thurman",
+                "Bruce Willis",
+                "Tim Roth",
+                "Harvey Keitel",
+                "Christopher Walken",
+                "John Travolta"
+            ],
+            "url": "https://image.tmdb.org/t/p/w440_and_h660_bestv2/dM2w364MScsjFf8pfMbaWUcWrR.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Saving Private Ryan",
+            "year": 1998,
+            "duration": 184,
+            "budget": 70.5,
+            "director": "Stephen Spielberg",
+            "genres": [
+                8,
+                9
+            ],
+            "rating": 5,
+            "cast": [
+                "Tom Hanks",
+                "Vin Diesel",
+                "Matt Damon"
+            ],
+            "url": "https://image.tmdb.org/t/p/w440_and_h660_bestv2/miDoEMlYDJhOCvxlzI0wZqBs9Yt.jpg"
+        },
+
+        {
+            "id": 5,
+            "title": "It",
+            "year": 2017,
+            "duration": 167,
+            "budget": 40.0,
+            "director": "Andy Muschietti",
+            "genres": [
+                0
+            ],
+            "rating": 3,
+            "cast": [
+                "Jaeden Lieberher",
+                "Bill Skarsgard",
+                "Jeremy Ray"
+            ],
+            "url": "http://cdn.film-book.com/wp-content/uploads/2017/03/it-movie-poster-01-2764x4096.jpeg"
+        },
+        {
+            "id": 6,
+            "title": "Slight",
+            "year": 2017,
+            "duration": 150,
+            "budget": 0.0,
+            "director": "JD Dillard",
+            "genres": [
+                8
+            ],
+            "rating": 1,
+            "cast": [
+                "Actor1"
+            ],
+            "url": "https://image.tmdb.org/t/p/w1280/wridRvGxDqGldhzAIh3IcZhHT5F.jpg"
+        }
+    ]
+}
