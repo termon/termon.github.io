@@ -1,13 +1,133 @@
 {
   "providerName": "James McAnespy",
-  "lastUpdated": "2021-12-20T15:01:00.535Z",
+  "lastUpdated": "2021-12-20T15:25:38.996Z",
   "language": "en",
   "movies": [
-  {},
-  {},
-  {},
-  {},
-  {},
+  {
+  "id": "585010249",
+  "title": "Proclaim [2016]",
+  "shortDescription": "Good Friday, 1916. James Connolly needs the word to get out, so he tasks Molloy, O'Brien and Brady to print a secret document. It must be ready by Monday...\n\n\n*Based on the actual characters & events surrounding the secret printing of the first Irish Proclamation.\n\n\nDirector: Maureen O'Connell; Featuring Paul Ward, Daniel Mahony, Brian Murphy, Tim Casey,",
+  "thumbnail": "https://i.vimeocdn.com/video/1211455451-d5c7a6e6d291bf0ed560464638e65efdd1e124e4df45cb4cb70087b3a754d0a4-d_800x450.png",
+  "releaseDate": "2021-08-09T14:15:43-04:00",
+  "genres": [
+  "drama"
+  ],
+  "tags": [
+  "Drama"
+  ],
+  "content": {
+  "dateAdded": "2021-08-09T15:30:42-04:00",
+  "duration": 1201,
+  "videos": [
+  {
+  "url": "https://player.vimeo.com/external/585010249.hd.mp4?s=834b4080e96868b73e71c018d6ad1471765156c6&profile_id=174",
+  "quality": "HD",
+  "videoType": "MP4",
+  "bitrate": 2242508
+  }
+  ]
+  }
+  },
+  {
+  "id": "654609496",
+  "title": "A Chat with... Marianne March",
+  "shortDescription": "Marianne March is a stage and screen actor with a wealth of experience across a range of acting disciplines. She met us in Belfast to go over some of her experiences as a TV star and encountering ghosts in Stoke!",
+  "thumbnail": "https://i.vimeocdn.com/video/1321311012-1ba772efc8791ad651af1129585d76340efbb667b20b0905804d9d376888450a-d_800x450.png",
+  "releaseDate": "2021-12-08T12:21:11-05:00",
+  "genres": [
+  "documentary"
+  ],
+  "tags": [
+  "Chats"
+  ],
+  "content": {
+  "dateAdded": "2021-12-08T15:19:39-05:00",
+  "duration": 1351,
+  "videos": [
+  {
+  "url": "https://player.vimeo.com/external/654609496.hd.mp4?s=c1eb9b81ca67f6de3247e396e12873e568a5f8a6&profile_id=175",
+  "quality": "FHD",
+  "videoType": "MP4",
+  "bitrate": 5493767
+  }
+  ]
+  }
+  },
+  {
+  "id": "653430575",
+  "title": "WilMacca 9 - Dungannon",
+  "shortDescription": "Objectionable Content: The caustic wit of WilMacca heads up to the top of the Hill of the O'Neills in Dungannon.",
+  "thumbnail": "https://i.vimeocdn.com/video/1318847584-992b8072b4d3b7001887afcc035d8ce48ada1a004ab603e7e6b012fb97e315fe-d_800x450.png",
+  "releaseDate": "2021-12-05T12:06:34-05:00",
+  "genres": [
+  "documentary"
+  ],
+  "tags": [
+  "Chats"
+  ],
+  "content": {
+  "dateAdded": "2021-12-05T13:59:42-05:00",
+  "duration": 3929,
+  "videos": [
+  {
+  "url": "https://player.vimeo.com/external/653430575.hd.mp4?s=ddd2ec23d74c71e73984e5b0ad8c714c2ea55430&profile_id=175",
+  "quality": "FHD",
+  "videoType": "MP4",
+  "bitrate": 5665707
+  }
+  ]
+  }
+  },
+  {
+  "id": "651169849",
+  "title": "Day 1350 - Occupying the Land",
+  "shortDescription": "Outside the small village of Greencastle, protestors have maintained an occupation protest for over four years. We speak to Martin Tracey about the protest and what it means to him and the community.",
+  "thumbnail": "https://i.vimeocdn.com/video/1313697841-7fef4227926974ce6d0f1d99e43cd99f1a9486ca0fa91fc83_800x450.png",
+  "releaseDate": "2021-11-29T10:39:39-05:00",
+  "genres": [
+  "documentary"
+  ],
+  "tags": [
+  "Chats"
+  ],
+  "content": {
+  "dateAdded": "2021-11-29T10:53:21-05:00",
+  "duration": 1063,
+  "videos": [
+  {
+  "url": "https://player.vimeo.com/external/651169849.hd.mp4?s=fd8da63b088a8d19e73c77ccfeac77d94bd10ffc&profile_id=175",
+  "quality": "FHD",
+  "videoType": "MP4",
+  "bitrate": 4447259
+  }
+  ]
+  }
+  },
+  {
+  "id": "640937689",
+  "title": "A Chat With... Alan Devers, Headhunters Barber Shop and Railway Museum",
+  "shortDescription": "You can get a short back and sides like in any other barbers, but the Headhunters Barber Shop & Railway Museum also has a large collection of artefacts from the much-missed trains that served Tyrone and Fermanagh until their closure in the mid twentieth century",
+  "thumbnail": "https://i.vimeocdn.com/video/1289379817-12f2a56ddf624ece9ed8c1a6d85991d101ed6caab20756491_800x450.png",
+  "releaseDate": "2021-10-31T15:45:39-04:00",
+  "genres": [
+  "documentary"
+  ],
+  "tags": [
+  "Chats"
+  ],
+  "content": {
+  "dateAdded": "2021-10-31T19:51:31-04:00",
+  "duration": 587,
+  "videos": [
+  {
+  "url": "https://player.vimeo.com/external/640937689.hd.mp4?s=687f632c86b33aea2e5beb609aac5f5f65a48e26&profile_id=175",
+  "quality": "FHD",
+  "videoType": "MP4",
+  "bitrate": 5338803
+  }
+  ]
+  }
+  },
   {
   "id": "637837592",
   "title": "A Chat With... Marty Hill",
@@ -540,7 +660,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1115661400-ec33b89247e609c3d0d002747077a8cd1c8f8ce26d0853bc6fe8bfba9db41e45-d_800x450.png",
   "releaseDate": "2021-04-19T15:13:23-04:00",
   "genres": [
-  ""
+  "sports"
   ],
   "tags": [
   "Sport"
@@ -565,7 +685,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1237959286-fefa7baea9b74101006060f33f32a26ced8751c6b48b1f27ee834f0c0a9a8b83-d_800x450.png",
   "releaseDate": "2021-09-10T10:35:10-04:00",
   "genres": [
-  ""
+  "sports"
   ],
   "tags": [
   "Sport"
@@ -590,7 +710,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1242075023-117257bf5fabafbe210046d7c4c47c893d7cc56c6a34eb74636e67cd83a80a75-d_800x450.png",
   "releaseDate": "2021-09-14T15:55:03-04:00",
   "genres": [
-  ""
+  "sports"
   ],
   "tags": [
   "Sport"
@@ -615,7 +735,6 @@
   "thumbnail": "https://i.vimeocdn.com/video/1133917828-50b8b210e864b6a8d1f5b7c48be1c372ea51645ff4b72d7b877d3afc09d54ceb-d_800x450.png",
   "releaseDate": "2021-05-10T17:06:14-04:00",
   "genres": [
-  "documentary",
   "food"
   ],
   "tags": [
@@ -641,7 +760,6 @@
   "thumbnail": "https://i.vimeocdn.com/video/1094540081-6fe7d7c4b19daec0bd9c5ad4eb4f79c8c901ea3a54865682d51d89bfce1c7bbd-d_800x450.png",
   "releaseDate": "2021-03-25T09:54:40-04:00",
   "genres": [
-  "documentary",
   "food"
   ],
   "tags": [
@@ -667,7 +785,6 @@
   "thumbnail": "https://i.vimeocdn.com/video/1090138593-a93e58b3bad437ec92c8148408a70016ffb96c2c6f627d3b57b9089362410891-d_800x450.png",
   "releaseDate": "2021-03-20T13:34:20-04:00",
   "genres": [
-  "documentary",
   "food"
   ],
   "tags": [
@@ -843,7 +960,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1248949104-40e33f59a08a99de25c778c7e34819fcf627a7d336003efe2f1b8c0d6433a4ec-d_800x450.png",
   "releaseDate": "2021-09-21T16:48:28-04:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -868,7 +985,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1190055590-de6443b1aab7a5be650a89d4a5e0233de3f55aea3466351b214fc844886db1cb-d_800x450.png",
   "releaseDate": "2021-07-15T11:41:14-04:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -893,7 +1010,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1168034150-7b99a4e4cf4e1eb3aaded6eebd23d5d9a7b052eb815cc5d3c1ab6b0bd3bb5d56-d_800x450.png",
   "releaseDate": "2021-06-19T08:46:25-04:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -918,7 +1035,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1168033078-aa1226a0cd76682c2974e5add9f59571e9d3d08896ef27fc5528e00435d3dbab-d_800x450.png",
   "releaseDate": "2021-06-19T08:36:52-04:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -943,7 +1060,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1141418289-b7ebb3e27355703e4e45bd74d62a4b0e0f592c4c2a48ec2a227ccfbbb3c88c51-d_800x450.png",
   "releaseDate": "2021-05-19T11:16:13-04:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -968,7 +1085,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1134819030-c7c3bc19a9d3a6665830c5acc1457b284e6d3d3f0b9e705c185a07f3c4b11696-d_800x450.png",
   "releaseDate": "2021-05-11T15:00:02-04:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -993,7 +1110,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1110649171-3fc97266cfb459f1287ba624dfbab8fc72d84030d6e9a9cec43b00241a9f284c-d_800x450.png",
   "releaseDate": "2021-04-13T14:53:35-04:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -1018,7 +1135,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1106236700-e1bab957e3dfe6ae8d23c6558436e93577e27fa80fd03d24124588f6c25a829d-d_800x450.png",
   "releaseDate": "2021-04-07T16:59:36-04:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -1043,7 +1160,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1105518701-7d8db5da9085a869fd980ca55b60ec180793c4c8edbbe7c8f58bc1973a22b631-d_800x450.png",
   "releaseDate": "2021-04-07T12:14:46-04:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -1068,7 +1185,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1105507756-6d8053bc697cf616e5905d78aadb586ea5bec6f26378b95274a85d861065219b-d_800x450.png",
   "releaseDate": "2021-04-07T11:50:21-04:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -1093,7 +1210,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1104644166-941ce43593ee00de6326a347dcdfd0920442757ebe73765c1f61a2ffdd808bb3-d_800x450.png",
   "releaseDate": "2021-04-05T16:17:04-04:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -1118,7 +1235,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1075835508-0e47246f4dd4c0a9bf40dbf75081dc0d903943fa09ae0a8b81c55e0022421bc4-d_800x450.png",
   "releaseDate": "2021-03-03T18:57:45-05:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -1143,7 +1260,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1074260706-dcd15b650cb6bb425034daca61cc4d9e63f6748d5f9be8d337c6f47c64ada185-d_800x450.png",
   "releaseDate": "2021-03-02T13:13:57-05:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -1168,7 +1285,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1069812396-7eca5d9310e2d0dbabc78487a94e83e35623050989c131ccf63ebe7c2826345d-d_800x450.png",
   "releaseDate": "2021-02-24T19:33:24-05:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -1193,7 +1310,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1062494196-db4a4326dba9dc795298fb0b97ed8a263d158e366b97411f5dceec8ed77e2861-d_800x450.png",
   "releaseDate": "2021-02-16T13:03:51-05:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -1218,7 +1335,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1060040980-58abffb5bfdd20e174a466684fea0392430b0211b4fa30b593611bc263fb15e2-d_800x450.png",
   "releaseDate": "2021-02-13T16:21:22-05:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -1243,7 +1360,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1059188207-f08a4df94186fce46e4b58eddc0bcfdae49f8a9426014ee3ba937225efec86f1-d_800x450.png",
   "releaseDate": "2021-02-12T09:29:09-05:00",
   "genres": [
-  ""
+  "documentary"
   ],
   "tags": [
   "Editorial"
@@ -1729,7 +1846,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1290007523-4aa4c795b95203230742aab854dcb0108d2c182851ea573b9_800x450.png",
   "releaseDate": "2021-11-01T16:02:00-04:00",
   "genres": [
-  "documentary"
+  "history"
   ],
   "tags": [
   "Places"
@@ -1754,7 +1871,7 @@
   "thumbnail": "https://i.vimeocdn.com/video/1313697841-7fef4227926974ce6d0f1d99e43cd99f1a9486ca0fa91fc83_800x450.png",
   "releaseDate": "2021-11-29T10:39:39-05:00",
   "genres": [
-  "documentary"
+  "history"
   ],
   "tags": [
   "Places"
